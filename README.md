@@ -84,4 +84,6 @@ python deploy/cli.py
 - Qwen2.5：https://huggingface.co/Qwen/Qwen2.5-3B-Instruct 
 - Code Alpaca：https://github.com/sahil280114/codealpaca 
 - DPO 论文：Direct Preference Optimization (Rafailov et al., 2023) 
+## 结果展示
+![效果](image1.png)
 - ## 许可证 MIT
